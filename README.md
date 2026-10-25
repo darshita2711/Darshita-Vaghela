@@ -1,4 +1,4 @@
-﻿# Darshita Vaghela â€” Developer Portfolio
+# Darshita Vaghela — Developer Portfolio
 
 A responsive personal portfolio for Darshita Vaghela, using a consistent dark plum background with warm light text and coral accents. It presents her full-stack and Python experience, Django, backend services, databases, selected projects, and current Per Scholas AI-Native Software Development training.
 
@@ -21,8 +21,8 @@ Open `index.html` in a browser. This version uses plain HTML, CSS, and JavaScrip
 
 ## Files
 
-- `index.html` â€” page content and structure
-- `styles.css` â€” responsive layout and visual styling
-- `script.js` â€” mobile navigation and current year
+- `index.html` — page content and structure
+- `styles.css` — responsive layout and visual styling
+- `script.js` — mobile navigation and current year
 
 
